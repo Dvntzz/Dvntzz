@@ -7,6 +7,8 @@
 - 💬 me contate pelo email: contato.felipedantas@gmail.com
 - ⚡️ Fato sobre mim: Amo jogar basquete
 
+
+![Snake animation](https://github.com/Dvntzz/Dvntzz/blob/output/github-contribution-grid-snake.svg)
 <!--
 **Dvntzz/Dvntzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
