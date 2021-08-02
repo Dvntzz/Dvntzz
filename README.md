@@ -2,10 +2,10 @@
 
 - 🔭 Estou em busca de uma oportunidade como Junior
 - 🌱 Atualmente estou estudando Java pela OracleOne
-- ⚙️ Tecnologias: Java, JavaScript, HTML5, CSS3, Git, Bootstrap, TMDB, SpringBoot.
-- 🤔 Fatos sobre mim: Curioso, extrovertido e muito energico.
+- ⚙️ Tecnologias: Java, JavaScript, HTML5, CSS3, Git, Bootstrap, TMDB, SpringBoot
+- 🤔 Fatos sobre mim: Curioso, extrovertido e muito energico
 - 💬 me contate pelo email: contato.felipedantas@gmail.com
-- ⚡️ Fato sobre mim: Amo jogar basquete
+- ⚡️ Fato sobre mim: Amo jogar basquete e solucionar problemas.
 
 
 ![Snake animation](https://github.com/Dvntzz/Dvntzz/blob/output/github-contribution-grid-snake.svg)
