@@ -5,7 +5,7 @@
 - ⚙️ Tecnologias: Java, JavaScript, HTML5, CSS3, Git, Bootstrap, TMDB, SpringBoot.
 - 🤔 Fatos sobre mim: Curioso, extrovertido e muito energico.
 - 💬 me contate pelo email: contato.felipedantas@gmail.com
-- 😄 Pronomes: Ele/Dele
+- ⚡️ Fato sobre mim: Amo jogar basquete
 
 <!--
 **Dvntzz/Dvntzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
