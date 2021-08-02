@@ -2,6 +2,7 @@
 
 - 🔭 Estou em busca de uma oportunidade como Junior
 - 🌱 Atualmente estou estudando Java pela OracleOne
+- ⚙️ Tecnologias: Java, JavaScript, HTML5, CSS3, Git, Bootstrap, TMDB, SpringBoot.
 - 🤔 Fatos sobre mim: Curioso, extrovertido e muito energico.
 - 💬 me contate pelo email: contato.felipedantas@gmail.com
 - 😄 Pronomes: Ele/Dele
