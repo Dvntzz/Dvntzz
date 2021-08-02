@@ -1,4 +1,4 @@
-### Olá, eu sou o Dvntzz ou Felipe Dantas se preferir 👋
+### Olá, eu sou o Felipe Dantas ou Dvntzz se preferir 👋
 
 - 🔭 Estou em busca de uma oportunidade como Junior
 - 🌱 Atualmente estou estudando Java pela OracleOne
