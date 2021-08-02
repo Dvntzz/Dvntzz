@@ -5,7 +5,7 @@
 - ⚙️ **Tecnologias:** Java, JavaScript, HTML5, CSS3, Git, Bootstrap, TMDB, SpringBoot
 - 🤔 **Fatos sobre mim:** Curioso, extrovertido e muito energico
 - 💬 **me contate:** contato.felipedantas@gmail.com
-- ⚡️ **Hobbies:** Amo jogar basquete e solucionar problemas.
+- ⚡️ **Hobbies:** Amo jogar basquete e ler.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Felipe Dantas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
