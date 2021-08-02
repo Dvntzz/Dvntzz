@@ -3,7 +3,7 @@
 - 🔭 Estou em busca de uma oportunidade como Junior
 - 🌱 Atualmente estou estudando Java pela OracleOne
 - 🤔 Fatos sobre mim: Curioso, extrovertido e muito energico.
-- 💬 me contate pelo email: ### contato.felipedantas@gmail.com
+- 💬 me contate pelo email: contato.felipedantas@gmail.com
 - 😄 Pronomes: Ele/Dele
 
 <!--
