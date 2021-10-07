@@ -1,6 +1,6 @@
 ## Olá, muito prazer eu sou o Felipe Dantas 👋
 
-- 🔭 **Foco:** Estou em busca de uma oportunidade como dev Junior
+- 🔭 **Foco:** Atualmente sou Assitente de TI II na BRF
 - 🌱**Estudos:** Atualmente estou estudando Java pela OracleOne
 - 🤔 **Fatos sobre mim:** Curioso, extrovertido e muito enérgico
 - ⚡️ **Hobbies:** Amo jogar basquete e ler.
