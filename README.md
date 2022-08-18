@@ -16,7 +16,7 @@
 
 ### Tecnologias
 <div style="display: inline_block"><br>
-  <img align="center" alt="Felipe Dantas - Java" height="20" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Felipe Dantas - Java" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Felipe Dantas-Js" height="20" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Felipe Dantas-HTML" height="20" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Felipe Dantas-CSS" height="20" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
