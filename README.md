@@ -1,7 +1,7 @@
 ## Olá, muito prazer eu sou o Felipe Dantas 👋
 
 - 🔭 **Foco:** Atualmente sou Assitente de TI II na BRF
-- 🌱**Estudos:** Atualmente estou estudando React
+- 🌱**Estudos:** Atualmente estou estudando .NET
 - 🤔 **Fatos sobre mim:** Curioso, extrovertido e muito enérgico
 - ⚡️ **Hobbies:** Amo jogar basquete e ler.
 ## Redes Sociais
