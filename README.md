@@ -1,7 +1,7 @@
 ## Olá, muito prazer eu sou o Felipe Dantas 👋
 
 - 🔭 **Foco:** Atualmente sou Dev Jr na BRF e estudante de Desenvolvimento de sistemas no Senac
-- 🌱**Estudos:** Atualmente estou estudando BackEnd(.net e MySql)
+- 🌱**Estudos:** Atualmente estou estudando BackEnd(Python e Mongo)
 - 🤔 **Fatos sobre mim:** Curioso, extrovertido e muito enérgico
 - ⚡️ **Hobbies:** Amo jogar basquete e ler.
 ### Tecnologias
