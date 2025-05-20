@@ -2,16 +2,12 @@
 
 Sou Desenvolvedor Júnior na **BRF** e estudante de **Desenvolvimento de Sistemas** no Senac. Tenho paixão por tecnologia, aprendizado contínuo e por transformar ideias em soluções funcionais e eficientes.
 
----
-
 ## 🚀 Sobre mim
 
 - 💻 **Atualmente:** Atuo como Dev Jr na BRF e estudo Back-End com foco em boas práticas, testes e escalabilidade.
 - 📚 **Estudos atuais:** Aprimorando habilidades em Java, C#, Node.js e bancos de dados relacionais.
 - 🎯 **Perfil:** Curioso, comunicativo e com muita energia para aprender e colaborar em equipe.
 - 🏀 **Hobbies:** Jogar basquete, ler livros e aprender novas tecnologias.
-
----
 
 ## 🧰 Tecnologias e Ferramentas
 
@@ -29,8 +25,6 @@ Sou Desenvolvedor Júnior na **BRF** e estudante de **Desenvolvimento de Sistema
   <img align="center" alt="Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
 </div>
 
----
-
 ## 📊 Estatísticas GitHub
 
 <div>
@@ -40,13 +34,9 @@ Sou Desenvolvedor Júnior na **BRF** e estudante de **Desenvolvimento de Sistema
   </a>
 </div>
 
----
-
 ## 🌍 Onde me encontrar
 
-- [LinkedIn](https://www.linkedin.com/in/seu-linkedin) *(insira seu link aqui)*
-- 📫 Email: seuemail@email.com *(ou outro contato profissional)*
-
----
+- [LinkedIn](https://www.linkedin.com/in/contatofelipedantas/)
+- 📫 Email: contato.felipedantas@gmail.com
 
 ![Snake animation](https://github.com/Dvntzz/Dvntzz/blob/output/github-contribution-grid-snake.svg)
