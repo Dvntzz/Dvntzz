@@ -9,6 +9,10 @@ Sou Desenvolvedor Júnior na **BRF** e estudante de **Desenvolvimento de Sistema
 - 🎯 **Perfil:** Curioso, comunicativo e com muita energia para aprender e colaborar em equipe.
 - 🏀 **Hobbies:** Jogar basquete, ler livros e aprender novas tecnologias.
 
+## 💼 Projetos em Destaque
+
+- 🔗 [Bot de musicas para discord (Javascript)](https://github.com/Dvntzz/DiscordBot)
+
 ## 🧰 Tecnologias e Ferramentas
 
 <div style="display: inline_block"><br>
