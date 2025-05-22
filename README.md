@@ -11,6 +11,7 @@ Sou Desenvolvedor Júnior na **BRF** e estudante de **Desenvolvimento de Sistema
 
 ## 💼 Projetos em Destaque
 
+- 🔗 [Site de filmes - Cine Dantas (HTML, Javascript e TailwindCSS)](https://github.com/Dvntzz/site-filmes)
 - 🔗 [Bot de musicas para discord (Javascript)](https://github.com/Dvntzz/DiscordBot)
 - 🔗 [Landing page TechBoost (HTML e TailwindCSS)](https://github.com/Dvntzz/techboost-landing)
 
