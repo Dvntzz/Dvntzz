@@ -24,7 +24,7 @@ Sou Desenvolvedor Júnior na **BRF** e estudante de **Desenvolvimento de Sistema
 
 ## 🌍 Onde me encontrar
 
-- [LinkedIn](https://www.linkedin.com/in/contatofelipedantas/)
-- 📫 Email: contato.felipedantas@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/contatofelipedantas/)
+- 📫 [Email](contato.felipedantas@gmail.com)
 
 ![Snake animation](https://github.com/Dvntzz/Dvntzz/blob/output/github-contribution-grid-snake.svg)
