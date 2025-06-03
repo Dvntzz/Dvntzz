@@ -10,7 +10,7 @@ Sou Desenvolvedor e estudante de **Desenvolvimento de Sistemas** no Senac. Tenho
 ## 💼 Projetos em Destaque
 
 - 🔗 [Site de filmes - Cine Dantas (HTML, Javascript e TailwindCSS)](https://github.com/Dvntzz/site-filmes)
-- 🔗 [Bot de musicas para Discord (Javascript)](https://github.com/Dvntzz/DiscordBot)
+- 🔗 [Bot de musicas para Discord (NodeJS)](https://github.com/Dvntzz/DiscordBot)
 - 🔗 [Landing page TechBoost (HTML e TailwindCSS)](https://github.com/Dvntzz/techboost-landing)
 - 🔗 [Formulario de cadastro (HTML e TailwindCSS)](https://github.com/Dvntzz/form-cadastro)
 
