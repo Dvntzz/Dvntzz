@@ -14,6 +14,12 @@ Sou Desenvolvedor Júnior na **BRF** e estudante de **Desenvolvimento de Sistema
 - 🔗 [Landing page TechBoost (HTML e TailwindCSS)](https://github.com/Dvntzz/techboost-landing)
 - 🔗 [Formulario de cadastro (HTML e TailwindCSS)](https://github.com/Dvntzz/form-cadastro)
 
+## 💼 Projetos em aprimoramento
+- 🔗 [WebSite usando ASP.NET Core MVC](https://github.com/Dvntzz/SiteMVC)
+- 🔗 [Lista simples em WPF](https://github.com/Dvntzz/WPF-Name-Lists)
+- 🔗 [exercícios copm C# ](https://github.com/Dvntzz/Aprendendo-c-sharp)
+- 🔗 [exercícios com Java](https://github.com/Dvntzz/Basico-java)
+  
 ## 📊 Estatísticas GitHub
 
 <div>
