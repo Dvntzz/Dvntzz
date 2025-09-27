@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Felipe Dantas!
 
-Sou Desenvolvedor e estudante de **Desenvolvimento de Sistemas** no Senac. Tenho paixão por tecnologia, aprendizado contínuo e por transformar ideias em soluções funcionais e eficientes.
+Sou Desenvolvedor formado em **Desenvolvimento de Sistemas** no Senac. Tenho paixão por tecnologia, aprendizado contínuo e por transformar ideias em soluções funcionais e eficientes.
 
 ## 🚀 Sobre mim
 
