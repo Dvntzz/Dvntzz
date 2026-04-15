@@ -4,7 +4,7 @@ Sou Desenvolvedor formado em **Desenvolvimento de Sistemas** no Senac. Tenho pai
 
 ## 🚀 Sobre mim
 
-- 📚 **Estudos atuais:** Aprimorando habilidades em Java, C#, Node.js e bancos de dados relacionais.
+- 📚 **Estudos atuais:** Cursando Pós em Engenharia de software e aprendendo mais sobre DevOps e Microserviços
 - 🎯 **Perfil:** Curioso, comunicativo e com muita energia para aprender e colaborar em equipe.
 
 ## 💼 Projetos em Destaque
