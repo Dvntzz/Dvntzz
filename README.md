@@ -34,4 +34,4 @@ Sou Desenvolvedor formado em **Desenvolvimento de Sistemas** no Senac. Tenho pai
 - 💼 [LinkedIn](https://www.linkedin.com/in/contatofelipedantas/)
 - 📫 contato.felipedantas@gmail.com
 
-![Snake animation](https://github.com/Dvntzz/Dvntzz/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Dvntzz/blob/output/github-contribution-grid-snake.svg)
