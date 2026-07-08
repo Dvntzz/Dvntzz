@@ -20,14 +20,6 @@ Sou Desenvolvedor formado em **Desenvolvimento de Sistemas** no Senac. Tenho pai
 - 🔗 [Lista simples em WPF](https://github.com/Dvntzz/WPF-Name-Lists)
 - 🔗 [Exercícios C# ](https://github.com/Dvntzz/Aprendendo-c-sharp)
 - 🔗 [Exercícios Java](https://github.com/Dvntzz/Basico-java)
-  
-## 📊 Estatísticas GitHub
-
-<div>
-  <a href="https://github.com/Dvntzz">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dvntzz&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
-</div>
 
 ## 🌍 Onde me encontrar
 
